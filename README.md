@@ -13,7 +13,7 @@ I’m an IT student passionate about developing **banking system applications** 
 - 🔭 &nbsp; I’m currently working on a digital service platform called **NexaSub**
 - 🌱 &nbsp; I’m practicing and improving my skills in **communication**, **teamwork**, and **project management**
 - 💬 &nbsp; Ask me about front-end development, project ideas, or anything tech-related
-- 📫 &nbsp; Reach me via [LinkedIn](https://www.linkedin.com/in/votre-lien-linkedin)
+- 📫 &nbsp; Reach me via [LinkedIn](https://www.linkedin.com/in/wassim-jlassi-565b76371)
 
 <br/>
 

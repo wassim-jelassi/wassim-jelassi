@@ -28,21 +28,6 @@ I’m an IT student passionate about developing **banking system applications** 
 
 <br/><br/><br/>
 
-### 📊 GitHub Stats
-<a href='https://github.com/your-username/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-</a>
-
----
-
-### 🛠️ Projects Coming Soon:
-- NexaSub – plateforme de vente d'abonnements numériques
-- Assistant bancaire intelligent avec IA
-- Portfolio React personnel
-
----
 
 

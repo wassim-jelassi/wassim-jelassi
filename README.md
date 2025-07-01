@@ -32,8 +32,7 @@ I’m an IT student passionate about developing **banking system applications** 
 - 💰 **Loan Calculator** – a responsive banking web app that calculates monthly payments based on loan terms and TMM (Taux Moyen du Marché)
 - 🛒 **NexaSub** – a platform for selling digital subscriptions like Spotify, Netflix, and more
 - 🧠 **Bank Assistant Bot** – an AI-based chatbot that simulates banking assistant conversations
-- 🧾 **Credit Request App** – interface for requesting, validating, and managing credit demands for BNA
-- 📁 **Personal Portfolio** – built with React to showcase my projects and profile
+  
 
 ---
 

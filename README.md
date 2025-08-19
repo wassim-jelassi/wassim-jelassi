@@ -4,14 +4,15 @@
 
 <br/>
 
-I’m an IT student passionate about developing **banking system applications** and improving my **soft skills** to become a well-rounded professional. I enjoy turning ideas into real web projects using modern tools and frameworks.
+I’m an IT student passionate about developing banking system applications and improving my soft skills to become a well-rounded professional. I enjoy turning ideas into real web projects using modern tools and frameworks.
+<br>I work on small, practical projects to apply and strengthen my knowledge, including:
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on a digital service platform called **NexaSub**
-- 🌱 &nbsp; I’m practicing and improving my skills in **communication**, **teamwork**, and **project management**
+- 🔭 &nbsp; Loan Calculator – a responsive banking web app to calculate loan payments.
+- 🌱 &nbsp; LAN Network Simulator – an interactive tool for learning networking concepts.
 - 💬 &nbsp; Ask me about front-end development, project ideas, or anything tech-related
 - 📫 &nbsp; Reach me via [LinkedIn](https://www.linkedin.com/in/wassim-jlassi-565b76371)
 
@@ -29,7 +30,7 @@ I’m an IT student passionate about developing **banking system applications** 
 <br/><br/><br/>
 ### 🛠️ Projects Coming Soon:
 
-- 💰 **Loan Calculator** – a responsive banking web app that calculates monthly payments based on loan terms and TMM (Taux Moyen du Marché)
+- 💰 Online Cheque Payment App – a simple fintech application.
 - 🛒 **NexaSub** – a platform for selling digital subscriptions like Spotify, Netflix, and more
 - 🧠 **Bank Assistant Bot** – an AI-based chatbot that simulates banking assistant conversations
   

@@ -5,7 +5,7 @@
 
 *Building systems that connect the physical and digital worlds.*
 
-[![LinkedIn]((https://www.linkedin.com/in/wassim-jlassi-565b76371)
+LinkedIn :(https://www.linkedin.com/in/wassim-jlassi-565b76371)
 
 
 </div>

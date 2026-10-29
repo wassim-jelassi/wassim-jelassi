@@ -5,7 +5,7 @@
 
 *Building systems that connect the physical and digital worlds.*
 
-LinkedIn :(https://www.linkedin.com/in/wassim-jlassi-565b76371)
+LinkedIn :https://www.linkedin.com/in/wassim-jlassi-565b76371
 
 
 </div>
@@ -58,35 +58,16 @@ I enjoy understanding how systems work end to end: from sensors and embedded dev
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| **[Task Manager API](https://github.com/YOUR_USERNAME/task-manager-api)** | RESTful API for task management with authentication and database persistence | Node.js, Database, Postman |
-| **[Network Design Lab](https://github.com/YOUR_USERNAME/network-lab)** | Enterprise network simulation: VLANs, routing, and subnetting | Cisco Packet Tracer |
-| **[IoT Project](https://github.com/YOUR_USERNAME/iot-project)** | Sensor data collection and monitoring | Arduino / ESP32, MQTT |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
 I'm always happy to discuss IoT, networking, or software engineering, and to hear about internship and collaboration opportunities.
 
-- 💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- 📧 Email: YOUR_EMAIL@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/wassim-jlassi-565b76371
+- 📧 Email: wassimjlassi200@gmail.com
 
 <div align="center">
 
